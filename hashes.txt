@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Coal Miner’s Daughter
+
+This log tracks the cryptographic history and versioning for the song **Coal Miner’s Daughter** (coal-miners-daughter).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T04:23:11.888658 | `v1` | `c981fc0b86be892a00b1f63ef865c8300031c0596ac8758b4993215c9b63a2f1` | `efd17b4bc2e9df0c2390b590c8ef0fab2558c770103367d9c8ad03d3e67833e4` | `2026-05-22_coal-miners-daughter-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
