@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/coal-miners-daughter/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Coal Miner’s Daughter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coal-miners-daughter/) |
+| **Get License** | [Official Music Licensing for Coal Miner’s Daughter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coal-miners-daughter/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got that dust on the boots and a fire in the eyes
+> You’re the sweetest little secret under country skies
+> I want to pull you close where the shadows fall down
+> My beautiful lover from this sleepy little town
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
