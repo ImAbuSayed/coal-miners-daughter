@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/coal-miners-daughter/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Coal Miner’s Daughter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coal-miners-daughter/) |
+| **Get License** | [Commercial Licensing for Coal Miner’s Daughter](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/coal-miners-daughter/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1851)
 
 ---
 
